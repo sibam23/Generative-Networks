@@ -29,8 +29,10 @@ The ouput is as shown below:
 
 <img src="DCGANoutput.gif" width="50%" height="50%"/>
 
-<img src="comparison.png" width="50%" height="50%"/>
+REAL vs Generated images 
+
+<img src="comparison.png" width="75%" height="75%"/>
 
 The loss is given below:
 
-<img src="loss.png" width="50%" height="50%"/>
+<img src="loss.png" width="75%" height="75%"/>
