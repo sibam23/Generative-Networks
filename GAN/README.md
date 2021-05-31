@@ -22,4 +22,15 @@ python DCGAN.py
 | Loss Function | BCE Loss |  
 <br/>
 Weights initialized with 0 centered Normal distribution with standard deviation = 0.02.
+
 These are the hyperparameters specified in the DCGAN paper and used in training this model.
+
+The ouput is as shown below:
+
+<img src="DCGANoutput.gif" width="50%" height="50%"/>
+
+<img src="comparison.png" width="50%" height="50%"/>
+
+The loss is given below:
+
+<img src="loss.png" width="50%" height="50%"/>
