@@ -5,3 +5,4 @@ Implementing generative networks to develop a stremlined data generation model.
 
 I have currently implemented :
 - [x] [DCGAN](GAN) on CIFAR dataset.
+- [x] [Variational Autoencoder](VAE) on MNIST dataset. 
