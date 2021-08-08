@@ -30,6 +30,7 @@ The ouput is as shown below:
 <img src="DCGANoutput.gif" width="50%" height="50%"/>
 
 REAL vs Generated images 
+The FID score is 80.3. 
 
 <img src="comparison.png" width="75%" height="75%"/>
 
